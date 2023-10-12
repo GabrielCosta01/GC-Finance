@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido com o intuito de praticar e reaprender alguns conceitos de desenvolvimento web. Ele utiliza as seguintes tecnologias: Vite, React, JavaScript e Context API para gerenciamento de estado, e utiliza Styled-Components para estilização.
 
+## Demonstração
+
+Você pode experimentar a versão ao vivo do projeto [aqui](https://gc-finance.vercel.app/).
+
 ## Funcionalidades
 
 O projeto apresenta as seguintes funcionalidades:
